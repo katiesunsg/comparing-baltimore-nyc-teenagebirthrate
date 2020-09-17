@@ -1,15 +1,15 @@
 # Exploring Income Level and its Affect on Teenage Birth Rates in Baltimore, MD and New York, NY 
 ## Background
-It is interesting to consider how material childhood circumstances affect the likelihood of teenage births. Two cities, New York and Baltimore, have a $7k difference between their average household incomes of $35k and $28k ![respectively.](https://opportunityinsights.org/) Do we expect to see the same teenage birth rate outcomes? We’ll take a look at the data from the ![Opportunity Insights group's research](https://opportunityinsights.org/) which follows 20 million children from their childhood to mid-30s to see how income level plays a role.
+It is interesting to consider how material childhood circumstances affect the likelihood of teenage births. Two cities, New York and Baltimore, have a $7k difference between their average household incomes of $35k and $28k [respectively.](https://opportunityinsights.org/) Do we expect to see the same teenage birth rate outcomes? We’ll take a look at the data from the [Opportunity Insights group's research](https://opportunityinsights.org/) which follows 20 million children from their childhood to mid-30s to see how income level plays a role.
 
 ## Business Question
 ***How does the income level of one’s parent(s) influence the fraction of women in Baltimore and New York City who, between the ages of 13-19 years old, give birth to a child?***
 
 ## Data Sources
-We'll use open data from the ![Opportunity Atlas](https://opportunityinsights.org/).
-- Baltimore Data: ![raw](https://github.com/katiesunsg/comparing-baltimore-nyc-teenagebirthrate/blob/master/Balti-RawData-TeenageBirthRate-Income-Race.xlsx) and ![analyzed](https://github.com/katiesunsg/comparing-baltimore-nyc-teenagebirthrate/blob/master/Balti-Analysis-Income-TeenageBirthRate.xlsx)
-- New York Data: ![raw](https://github.com/katiesunsg/comparing-baltimore-nyc-teenagebirthrate/blob/master/NYC-RawData-TeenageBirthRate-Income-Race.xlsx) and ![analyzed](https://github.com/katiesunsg/comparing-baltimore-nyc-teenagebirthrate/blob/master/NYC-Analysis-Income-TeenageBirthRate.xlsx)
-- The excel files above contain raw and manipulated teenage birth rate data for neighborhoods by income level, along with this ![data analysis](https://github.com/katiesunsg/comparing-baltimore-nyc-teenagebirthrate/blob/master/NYC-Balti-Analysis-Income-Race-Teenagebirthrate.xlsx) comparing the cities by income level and race.
+We'll use open data from the [Opportunity Atlas](https://opportunityinsights.org/).
+- Baltimore Data: [raw](https://github.com/katiesunsg/comparing-baltimore-nyc-teenagebirthrate/blob/master/Balti-RawData-TeenageBirthRate-Income-Race.xlsx) and [analyzed](https://github.com/katiesunsg/comparing-baltimore-nyc-teenagebirthrate/blob/master/Balti-Analysis-Income-TeenageBirthRate.xlsx)
+- New York Data: [raw](https://github.com/katiesunsg/comparing-baltimore-nyc-teenagebirthrate/blob/master/NYC-RawData-TeenageBirthRate-Income-Race.xlsx) and [analyzed](https://github.com/katiesunsg/comparing-baltimore-nyc-teenagebirthrate/blob/master/NYC-Analysis-Income-TeenageBirthRate.xlsx)
+- The excel files above contain raw and manipulated teenage birth rate data for neighborhoods by income level, along with this [data analysis](https://github.com/katiesunsg/comparing-baltimore-nyc-teenagebirthrate/blob/master/NYC-Balti-Analysis-Income-Race-Teenagebirthrate.xlsx) comparing the cities by income level and race.
 
 ## Data Analysis and Answer
 The primary metric is parent income level categorized by:
