@@ -3,7 +3,7 @@
 It is interesting to consider how material childhood circumstances affect the likelihood of teenage births. Two cities, New York and Baltimore have a $7k difference between their average household incomes of $35k and $28k [respectively.](https://opportunityinsights.org/) Do we expect to see the same teenage birth rate outcomes? We’ll take a look at the data from the [Opportunity Insights group](https://opportunityinsights.org/) which follows 20 million children from their childhood to mid-30s to see how income level plays a role.
 
 ## Business Question
-***How does the income level of one’s parent(s) influence the fraction of women in Baltimore and New York City who, between 13-19 years old, give birth and is this indicative of a greater wealth inequality issue?***
+***How does the income level of one’s parent(s) influence the fraction of women in Baltimore and New York City who, between 13-19 years old, gave birth and is this indicative of a greater wealth inequality issue?***
 
 ## Data Sources
 We'll use data from the [Opportunity Atlas](https://opportunityinsights.org/).
