@@ -37,5 +37,10 @@ Even within neighborhoods with fewer teenage births, low income results in highe
 
 While Baltimore and New York have similar average household incomes, the first graph above shows that there is greater income disparity in Baltimore as the percentage of women who give birth as a teen differs sharply between income levels. Wealth disparity and teenage birth rates can be tied to race as the second graph above shows that Black women are disproportionately affected.
 
+# Python Exploration
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W82TXkYcVpPmvl7zt6VL6KDrXSD9nzYi?usp=sharing)
+
+
 ## Summary
 It is clear that across neighborhoods and cities, regardless of varying levels of teen births, low income strongly correlates to a higher teenage birth rate. Additional data that explores race by income breakdown would be helpful as the links between income and race in a historically segregated city like Baltimore should be taken into further account. These findings mean that (racially based) income inequality is a variable to keep in mind as we consider how social mobility potential will affect us as students now, and in the future.
