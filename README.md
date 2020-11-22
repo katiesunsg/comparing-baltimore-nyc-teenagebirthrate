@@ -46,7 +46,7 @@ We revisited this data using python in the Google Colaboratory notebook linked a
 
 **What do our findings show us?** 
 
-In our python analysis, we focused on data visualizations using bar graphs. Our data once again showed us that teenage birth rates are disproportionately distributed across neighborhoods in both cities, with teenage birth rates slightly higher when filtering for lower income births compared to all income births. While there was no new findings, the contrast between Baltimore and New York City was highlighted in Baltimore having higher teenage birth rates on average compared to New York.
+In our python analysis, we focused on data visualizations using bar graphs. Our data once again showed us that teenage birth rates are disproportionately distributed across neighborhoods in both cities, with teenage birth rates slightly higher when filtering for lower income births compared to all income births. While there was no new findings, the contrast between Baltimore and New York City was further highlighted.
 
 **Revisiting teenage birth rates in Baltimore City vs. New York City by all-income**
 ![attach](https://github.com/katiesunsg/comparing-baltimore-nyc-teenagebirthrate/blob/master/baltiallincomebar.png)
@@ -63,7 +63,7 @@ From the two graphs above that focus on low-income births, we can clearly see th
 
 ![attachfinal](https://github.com/katiesunsg/comparing-baltimore-nyc-teenagebirthrate/blob/master/Python%20Pivot%20Table%20Balti%20vs.%20New%20York.png)
 
-From creating Python pivot tables, we can see that the table above shows that Baltimore has higher teenage birth rates vs. New York across income levels, but it is especially stark in Baltimore's 45% vs. New York's 18% for low-income. This seems to suggest that income effects may be stronger in determining teenage birth rates in Baltimore than New York. This further reiterates our previous reccomendation that policies aimed at reducing teenage birth rates should prioritize low-income families, especially in Baltimore.
+From our Python pivot table, we can see that Baltimore has higher teenage birth rates vs. New York across income levels, with a stark contrast in Baltimore's 45% vs. New York's 18% for low-income. This seems to suggest that income effects may be stronger in determining teenage birth rates in Baltimore than New York. This further reiterates our previous reccomendation that policies aimed at reducing teenage birth rates should prioritize low-income families, especially in Baltimore.
 
 ## Summary and Future Steps
 Additional data that might be useful for further analysis would be looking into race breakdown by neighborhoods and the relative poverty of each neighborhood. While we can see that lower income is linked to slightly higher teenage birth rates, it would be useful to determine whether it is race or income that is more likely to be able to successfully predict teenage birth rates. In addition, it would be worthwhile to explore how Baltimore and New York City differ in their neighborhood make-up in terms of racial segregation, average household income, and even other potential teenage birth rate factors such as level of education.
