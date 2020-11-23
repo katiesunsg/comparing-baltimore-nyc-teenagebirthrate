@@ -42,7 +42,7 @@ It is clear that across neighborhoods and cities, regardless of varying levels o
 
 # Python Exploration
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W82TXkYcVpPmvl7zt6VL6KDrXSD9nzYi?usp=sharing)
-We revisited this data using python in the Google Colaboratory notebook linked above. For our python data analysis, we used a combination of pandas, numpy, and plotly express to filter the data, form pivot tables, and create various data visualizations. 
+We revisited this data using python in the Google Colaboratory notebook linked above. We merged our datasets in a separate Colaboratory included in the repository above. For our python data analysis, we used a combination of pandas, numpy, and plotly express to filter the data, form pivot tables, and create various data visualizations.
 
 **What do our findings show us?** 
 
